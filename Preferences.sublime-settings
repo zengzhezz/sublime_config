@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Theme - itg.flat/itg.Monokai.tmTheme",
+	"font_face": "Monaco",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"reveal-on-activate": true,
+	"theme": "Default.sublime-theme"
+}
